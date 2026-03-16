@@ -1,10 +1,10 @@
 {
-    "size":  7937710,
+    "size":  7939431,
     "version":  "1.1.6",
-    "published_at":  "2026-03-16T20:41:13Z",
+    "published_at":  "2026-03-16T20:54:09Z",
     "url":  "https://github.com/muxang/pmscaner/releases/download/v1.1.6/polymarket-trader-win64-1.1.6.zip",
     "notes":  "",
     "min_supported_version":  "1.1.0",
     "file_name":  "polymarket-trader-win64-1.1.6.zip",
-    "sha256":  "d4cec9b4ee5c619f37a92493a362e2e6c71a99fd3d576e3821e193fc8152c842"
+    "sha256":  "4d7e4078b63ad40f513098380556c221ab5df5213ab2427960f1f0aa05adc28c"
 }
